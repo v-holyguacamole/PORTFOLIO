@@ -75,7 +75,7 @@ My previous experience varies from customer service support for Google Ads to fi
 
 #### SQL
 
-Please refer to 
+Please refer to [Task 5 - Subtask 3 and Task 6 - Subtask 1](https://github.com/v-holyguacamole/challenge_portfolio_Veronika/blob/main/README.md#task-5)
 
 ## __Tech skills__
 
