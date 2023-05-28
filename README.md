@@ -1,13 +1,16 @@
-# PORTFOLIO
-My tester's portfolio 
+# _PORTFOLIO_
+
+```diff
+@@ My tester's portfolio @@
+```
 
 ## __About me__
 
-My name is Veronika Kapustenko. I have recently embarked on a career change journey in order to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. I am an experienced and driven individual with strong experience in supporting key business customers. I am comfortable at taking ownership of the issues and providing solutions to ensure the company’s success. In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a position in testing.
+`My name is Veronika Kapustenko. I have recently embarked on a career change journey in order to become a Software Tester. This career path has interested me for quite a while, so I am excited to be given a chance to prove my skills. I am an experienced and driven individual with strong experience in supporting key business customers. I am comfortable at taking ownership of the issues and providing solutions to ensure the company’s success. In this portfolio I would like to share my testing knowledge and exhibit my technical skills, which I gained during the testing course I have completed and through self-learning. I am determined to prove the skills I have already acquired and keep developing in this field. This is why I am now looking for a position in testing.`
 
 #### My experience
 
-My previous experience varies from customer service support for Google Ads to financial operations associate at StoneX company. On each step of my career path I have participated in different projects where I was able to test software as a user. One of them was testing customers’ sites in Google Ads with the aim of suggesting best advertising options for the clients. Part of my work was also connected to reviewing sites via DevTools and advising on fixing errors. Currently, I am also participating in testing and using a new system for clients’ withdrawals and deposits. Since the system is brand new and should replace in the nearest future the old architecture, we are able to spot and report a lot of errors and misconfigurations. In both companies I did not have any test cases or scenarios prepared, I have been following processes and using my own experience. Bugs I found have been reported directly to the clients or my colleagues via Teams channel.
+`My previous experience varies from customer service support for Google Ads to financial operations associate at StoneX company. On each step of my career path I have participated in different projects where I was able to test software as a user. One of them was testing customers’ sites in Google Ads with the aim of suggesting best advertising options for the clients. Part of my work was also connected to reviewing sites via DevTools and advising on fixing errors. Currently, I am also participating in testing and using a new system for clients’ withdrawals and deposits. Since the system is brand new and should replace in the nearest future the old architecture, we are able to spot and report a lot of errors and misconfigurations. In both companies I did not have any test cases or scenarios prepared, I have been following processes and using my own experience. Bugs I found have been reported directly to the clients or my colleagues via Teams channel.`
 
 ## __Courses__
 
@@ -84,9 +87,14 @@ Please refer to [Task 5 - Subtask 3 and Task 6 - Subtask 1](https://github.com/v
 * Software testing
 * Creating test cases
 * Reporting bugs
-* Creating diagrams and decision tables
+* Creating diagrams and tables
 
 ## __Webinars__
 
+
+
+:sparkles::sparkles::sparkles::sparkles::sparkles::sparkles::sparkles:
+
+**_Stay tuned for more_**
 
 **_Veronika_**
