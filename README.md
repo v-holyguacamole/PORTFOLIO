@@ -12,6 +12,10 @@
 
 `My previous experience varies from customer service support for Google Ads to financial operations associate at StoneX company. On each step of my career path I have participated in different projects where I was able to test software as a user. One of them was testing customers’ sites in Google Ads with the aim of suggesting best advertising options for the clients. Part of my work was also connected to reviewing sites via DevTools and advising on fixing errors. Currently, I am also participating in testing and using a new system for clients’ withdrawals and deposits. Since the system is brand new and should replace in the nearest future the old architecture, we are able to spot and report a lot of errors and misconfigurations. In both companies I did not have any test cases or scenarios prepared, I have been following processes and using my own experience. Bugs I found have been reported directly to the clients or my colleagues via Teams channel.`
 
+
+## [Linkedin](https://www.linkedin.com/in/veronika-kapustenko/)
+
+
 ## __Courses__
 
 #### Ongoing:
