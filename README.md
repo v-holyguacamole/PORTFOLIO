@@ -7,17 +7,16 @@ My name is Veronika Kapustenko. I have recently embarked on a career change jour
 
 #### My experience
 
-My previous experience varies from customer service support for Google Ads to financial operations associate at StoneX company.
-On each step of my career path I have participated in different projects where I was able to test software as a user. One of them was testing customers sites in Google Ads in order to suggest best advertising options for the clients. Part of my work was also connected to reviewing sites via DevTools and advising on fixing appeared errors. I am also currently participating in testing and using a new system for client's withdrawals and deposits. Since the system is brand new and should replace in the nearest future old architecture, we are able to find and report a lot of errors and misconfigurations. In both cases I did not have any test cases or scenarios prepared, I have been following processes and using my awn experience. Bugs found by me were reported directly to the clients or my colleagues via teams channel.
+My previous experience varies from customer service support for Google Ads to financial operations associate at StoneX company. On each step of my career path I have participated in different projects where I was able to test software as a user. One of them was testing customers’ sites in Google Ads with the aim of suggesting best advertising options for the clients. Part of my work was also connected to reviewing sites via DevTools and advising on fixing errors. Currently, I am also participating in testing and using a new system for clients’ withdrawals and deposits. Since the system is brand new and should replace in the nearest future the old architecture, we are able to spot and report a lot of errors and misconfigurations. In both companies I did not have any test cases or scenarios prepared, I have been following processes and using my own experience. Bugs I found have been reported directly to the clients or my colleagues via Teams channel.
 
 ## __Courses__
 
 #### Ongoing:
 
- * Dare IT Challenges
- * The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)
- * ISTQB Foundation Level Complete Training (Udemy)
- * The Complete 2023 Software Testing Bootcamp (Udemy)
+ * [Dare IT Challenges](https://app.dareit.io/c/zostan-testerem-manualnym-6)
+ * [The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)](https://www.udemy.com/course/the-complete-sql-bootcamp/)
+ * [ISTQB Foundation Level Complete Training (Udemy)](https://www.udemy.com/course/foundation-level-training/)
+ * [The Complete 2023 Software Testing Bootcamp (Udemy)](https://www.udemy.com/course/testerbootcamp/)
 
 
 
@@ -32,7 +31,6 @@ On each step of my career path I have participated in different projects where I
  * Slack
  * GitHub
  * MySQL
- * Confluence
  * Salesforce
 
 ## __Books__
@@ -57,10 +55,27 @@ On each step of my career path I have participated in different projects where I
 
 #### Bugs
 
+[Bug Reports for scouts.futbolkolektyw.pl](https://docs.google.com/document/d/1q-zlhD4yBqLZ0iVBdM8LefR-EDxp0e6v_tfOopXcNco/edit?usp=sharing)
+
+[Bug Reports for OLX application (IOS)](https://docs.google.com/spreadsheets/d/1PYDtFMjg6Ub8Mibwe3LkJrf1OvWj5nyiWUHCR6sXk9o/edit?usp=sharing)
 
 #### Test cases
 
+[Test cases based on user stories](https://docs.google.com/spreadsheets/d/1K0BpjyCrDlRwEy4Y3UMPpbTX0EXiDptrovSyTaW_amo/edit?usp=sharing)
+
+[Test cases based on own experience](https://docs.google.com/spreadsheets/d/11zNw14mEkMCAy73wBg82ZuQhUKXIJeA6-okRKNxr5s4/edit?usp=sharing)
+
+[Test cases for pickeatup.io](https://docs.google.com/spreadsheets/d/1nfgb-dNXUMAVb_Z7dTC8ZoZniSc979VS98zy6KcVJIY/edit?usp=sharing)
+
+[Exploratory Testing](https://docs.google.com/document/d/14scGO3eyCbJ8J2SUxK07CrR_vBRqenzpYuRX0dfl-LE/edit?usp=sharing)
+
+#### Test report
+
+[Test report](https://docs.google.com/document/d/1xKGGz4qam8UaiAOt2jJDOC43Xs_uPaGR8c7IFgVhQv4/edit?usp=sharing)
+
 #### SQL
+
+Please refer to 
 
 ## __Tech skills__
 
@@ -75,4 +90,3 @@ On each step of my career path I have participated in different projects where I
 
 
 **_Veronika_**
- 
