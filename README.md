@@ -18,9 +18,12 @@
 
 ## __Courses__
 
-#### Ongoing:
+#### Completed:
 
  * [Dare IT Challenges](https://app.dareit.io/c/zostan-testerem-manualnym-6)
+
+#### Ongoing:
+
  * [The Complete SQL Bootcamp: Go from Zero to Hero (Udemy)](https://www.udemy.com/course/the-complete-sql-bootcamp/)
  * [ISTQB Foundation Level Complete Training (Udemy)](https://www.udemy.com/course/foundation-level-training/)
  * [The Complete 2023 Software Testing Bootcamp (Udemy)](https://www.udemy.com/course/testerbootcamp/)
@@ -29,6 +32,7 @@
 
 ## __Certificates__
 
+[EN_Certificate of completion_Become a Manual Tester_Veronika Kapustenko.pdf](https://github.com/v-holyguacamole/PORTFOLIO/files/12267044/EN_Certificate.of.completion_Become.a.Manual.Tester_Veronika.Kapustenko.pdf)
 
 
 ## __Tools__
